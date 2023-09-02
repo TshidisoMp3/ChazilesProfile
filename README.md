@@ -1,4 +1,4 @@
-# CHAZILES Profile
+# Chazile's Profile
 
 This is a project I made for a client in which they wanted a profile for digital marketing.
 
