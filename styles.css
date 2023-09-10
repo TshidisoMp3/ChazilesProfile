@@ -43,6 +43,15 @@ nav-show{
     opacity: 0;
 }
 
+/*Header hover selector*/
+header{
+    opacity: 1;
+    background: var(--main-header-background);
+}
+
+
+
+
 
 
 
