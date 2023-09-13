@@ -125,8 +125,15 @@ h3{
 }
 
 /*Socails*/
-
 .Socials{
+    padding: 10px;
+    display: flex;
+    position: center;
+      align-items: space-around;
+    justify-content: center;
+}
+
+.Socials a {
      padding: 10px;
      display: flex;
      text-align: center;
