@@ -123,3 +123,22 @@ h3{
     color: var(--main-fonts-color);
     text-shadow: 0px 0px 40px var(--main-decor-color);
 }
+
+/*Socails*/
+
+.Socials{
+     padding: 10px;
+     display: flex;
+     text-align: center;
+     display: inline-block;
+    color: var(--main-fonts-color);
+}
+
+.Socials a i{
+    cursor: pointer;
+}
+
+.Socials a:hover{
+    color: var(--main-decor-color);
+    text-shadow: 0px 0px 50px var(--main-decor-color);
+}
