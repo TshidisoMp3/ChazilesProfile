@@ -99,8 +99,10 @@ a.nav-link{
      opacity: .20;
 }
 
-
-
-
-
-
+.intro{
+  text-align: center;
+    color: var(--main-fonts-color-color);
+  z-index: 1;
+  margin: auto;
+  padding: 20px;
+}
