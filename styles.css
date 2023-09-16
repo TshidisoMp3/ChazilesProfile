@@ -164,3 +164,15 @@ h3{
     color: var(--main-fonts-color);
 }
 
+#projects h3{
+    padding-top: 70px;
+}
+
+.work{
+    display: flex;
+    flex: 1;
+      flex-wrap: wrap;
+      justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
