@@ -176,3 +176,13 @@ h3{
     align-items: center;
     padding: 20px;
 }
+
+ .card{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    width: 200px;
+    height: 250px;
+    border-radius: 12px;
+        background-color: var(--main-decor-color);
+ }
